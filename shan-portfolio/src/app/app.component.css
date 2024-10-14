@@ -1,0 +1,93 @@
+body {
+    font-family: 'Arial', sans-serif;
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .container {
+    width: 85%;
+    margin: 0 auto;
+  }
+  
+  .portfolio-header {
+    background-color: #dcfd08;
+    font-size: 30px;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  
+  .about-section {
+    background-color: #dcfd08;
+    text-align: right;
+    padding: 50px 0;
+  }
+  
+  
+  .contact-section {
+    background-color:  #07aef0;
+    text-align: center;
+  }
+  
+  .portfolio-footer {
+    background-color: #07aef0;
+    color: rgb(20, 0, 0);
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  .portfolio-footer p {
+    margin: 0;
+  }
+  
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .container {
+    width: 85%;
+    margin: 0 auto;
+    background-color:  #07aef0;
+    padding: 50px;
+  }
+  
+  
+  .portfolio-header {
+    background-color: #08ccf8;
+    color: rgb(10, 0, 0);
+    padding: 20px 0;
+    text-align:center;
+  }
+  
+  
+  .about-section {
+    background-color:#08ccf8 ;
+    font-size: 20px;
+  }
+  
+  
+  
+  .contact-section {
+    background-color: #08ccf8;
+    font-size: 20px;
+    
+  }
+  
+   
+  .portfolio-footer {
+    background-color: #6a0467;
+    color: rgb(12, 0, 0);
+    text-align: center;
+    padding: 15px 0;
+  }
+  
+  .portfolio-footer p {
+    margin: 0;
+  }
+  
